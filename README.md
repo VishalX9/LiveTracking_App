@@ -1,6 +1,6 @@
 # Live-Tracking-App 📌
 
-![image](https://github.com/user-attachments/assets/79bc1dec-eaac-46ce-8915-b7b7b888aedc)
+
 
 ## Overview
 
@@ -52,8 +52,4 @@ This project is a real-time device tracking application that utilizes geolocatio
 >> By integrating Express.js, Socket.io, Geolocation API, and Leaflet.js, this Live Device Tracker delivers a seamless and efficient solution for monitoring multiple devices. It ensures instant location updates on an interactive map, making it ideal for real-time tracking applications.
 >> 📍📍🌍🌍🗺️🗺️
 
-## Support
 
-📧 email- shreyansh.maholi@gmail.com
-
-🔗linkedin- https://www.linkedin.com/in/shreyansh-shukla-7a7166249/
