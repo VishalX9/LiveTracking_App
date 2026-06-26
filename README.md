@@ -1,5 +1,3 @@
-<img width="2554" height="1538" alt="image" src="https://github.com/user-attachments/assets/ebbd38e2-062c-49c1-9341-c201352028b1" /># Live-Tracking-App 📌
-
 
 <img width="1277" height="769" alt="Screenshot 2026-06-26 at 10 35 30 AM" src="https://github.com/user-attachments/assets/255e42e6-66b2-413e-8e5e-6a86421befbb" />
 
